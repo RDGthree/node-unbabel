@@ -13,7 +13,7 @@ Install via [npm](http://npmjs.org/)
 
 Initialize Unbabel with your username and API key. If querying the Unbabel sandbox, set `sandbox` to true.
 
-    var unbabel = require('unbabel')(publicKey, privateKey, sandbox);
+    var unbabel = require('unbabel')(username, apiKey, sandbox);
 
 
 Endpoints
@@ -23,6 +23,8 @@ Endpoints
 - Supports camelCase and underscore naming conventions for option fields.
 - Please refer to Unbabel's [API Docs](http://developers.unbabel.com/) for endpoint details.
   
+Endpoints...
+
     unbabel.languagePair(callback);
     
     unbabel.tone(callback);
