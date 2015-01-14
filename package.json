@@ -1,0 +1,41 @@
+{
+  "author": {
+    "name": "Brandon Paton",
+    "email": "bp@brandonpaton.com"
+  },
+  "name": "unbabel",
+  "description": "Unbabel API for node",
+  "version": "0.1.0",
+  "homepage": "https://github.com/paton/node-unbabel",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paton/node-unbabel.git"
+  },
+  "contributors": [
+    {
+      "name": "Brandon Paton",
+      "email": "bp@brandonpaton.com"
+    }
+  ],
+  "keywords": [
+    "translate",
+    "unbabel translation",
+    "translations",
+    "unbabel",
+    "i18n"
+  ],
+  "main": "lib/main.js",
+  "dependencies": {
+    "request": "~2.51.0"
+  },
+  "devDependencies": {},
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  },
+  "bugs": {
+    "url": "https://github.com/paton/node-unbabel/issues"
+  },
+  "readme": " "
+}
+
