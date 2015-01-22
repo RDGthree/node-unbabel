@@ -57,4 +57,4 @@ TODO
 Author
 ----------
 
-Brandon Paton. Email me if you have any questions: [bp@brandonpaton.com](mailto:bp@brandonpaton.com). Supported by [Localize.js](https://localizejs.com/).
+Roger Graham. Email me if you have any questions: [roger.graham.1393@gmail.com](mailto:roger.graham.1393@gmail.com). Supported by [Localize.js](https://localizejs.com/).
