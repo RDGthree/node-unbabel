@@ -32,7 +32,7 @@ Endpoints
 
     unbabel.translation.request({text: text_to_translate, target_language: target_language, callback_url: callback_url}, callback);
 
-    unbabel.translation.bulkRequest([{text: text_to_translate, target_language: target_language, callback_url: callback_url}], callback);
+    unbabel.translation.bulkRequest([{text: text_to_translate, target_language: target_language}], callback);
     
 **unbabel**
 
