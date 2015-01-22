@@ -1,28 +1,27 @@
 {
   "author": {
-    "name": "Brandon Paton",
-    "email": "bp@brandonpaton.com"
+    "name": "Roger Graham",
+    "email": "roger.graham.1393@gmail.com"
   },
   "name": "unbabel",
   "description": "Unbabel API for node",
   "version": "0.1.0",
-  "homepage": "https://github.com/paton/node-unbabel",
+  "homepage": "https://github.com/RDGIII/node-unbabel",
   "repository": {
     "type": "git",
-    "url": "git://github.com/paton/node-unbabel.git"
+    "url": "git://github.com/RDGIII/node-unbabel.git"
   },
   "contributors": [
     {
-      "name": "Brandon Paton",
-      "email": "bp@brandonpaton.com"
+      "name": "Roger Graham",
+      "email": "roger.graham.1393@gmail.com"
     }
   ],
   "keywords": [
     "translate",
     "unbabel translation",
     "translations",
-    "unbabel",
-    "i18n"
+    "unbabel"
   ],
   "main": "lib/main.js",
   "dependencies": {
@@ -34,8 +33,7 @@
     "node": ">=0.6"
   },
   "bugs": {
-    "url": "https://github.com/paton/node-unbabel/issues"
+    "url": "https://github.com/RDGIII/node-unbabel/issues"
   },
   "readme": " "
 }
-
