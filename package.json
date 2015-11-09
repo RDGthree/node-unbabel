@@ -5,7 +5,7 @@
   },
   "name": "unbabel",
   "description": "Unbabel API for node",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/RDGIII/node-unbabel",
   "repository": {
     "type": "git",
