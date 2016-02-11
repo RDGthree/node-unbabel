@@ -8,12 +8,12 @@ Installation
 
 Install via [npm](http://npmjs.org/)
 
-    npm install unbabel --save
+    npm install node-unbabel --save
 
 
 Initialize Unbabel with your username and API key. If querying the Unbabel sandbox, set `sandbox` to true.
 
-    var unbabel = require('unbabel')(username, apiKey, sandbox);
+    var unbabel = require('node-unbabel')(username, apiKey, sandbox);
 
 
 Endpoints
@@ -57,4 +57,4 @@ TODO
 Author
 ----------
 
-Roger Graham. Email me if you have any questions: [roger.graham.1393@gmail.com](mailto:roger.graham.1393@gmail.com). Supported by [Localize.js](https://localizejs.com/).
+Supported by [Localize](https://localizejs.com/).
